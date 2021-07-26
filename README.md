@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science Student, Software Developer, and Web Developer!!
 
-- 🔭 I’m currently working on NoFap Journal
+- 🔭 I’m currently working on Daily-Writing-Prompt. I will continue my [previous project](https://github.com/MountainHills/NoFap-Journal) once my laptop is repaired.
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking forward to work and learn with other developers.
 - 🥅 2021 Goals: Put up atleast on contribution every day

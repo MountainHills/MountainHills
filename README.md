@@ -29,7 +29,3 @@
 [website]: https://antonbondoc.wordpress.com/
 [twitter]: https://twitter.com/Bonbondocers/
 [linkedin]: https://www.linkedin.com/in/anton-bondoc-7231a71b5/
-
-<br><hr>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mountainhills)](https://github.com/mountainhills/github-readme-stats)

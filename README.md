@@ -1,6 +1,6 @@
 ### Hi there, I'm Anton - aka [MountainHills][website] 👋
 
-## I'm a Computer Science Student, Software Developer, and Web Developer!!
+## I'm a Computer Science Student, Software Developer, and Web Developer
 
 - 🔭 I’m currently working on [Daily-Writing-Prompt](https://github.com/MountainHills/Daily-Writing-Prompt). I will continue my [previous project](https://github.com/MountainHills/NoFap-Journal) once my laptop is repaired.
 - 🌱 I’m currently learning Javascript at [FreeCodeCamp.org](https://www.freecodecamp.org/fcc884befff-2365-4526-b9b5-0e238eba9e57).

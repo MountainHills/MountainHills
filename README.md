@@ -2,7 +2,8 @@
 
 ## I'm a Computer Science Student, Software Developer, and Web Developer
 
-- 🔭 I’m currently working on [Daily-Writing-Prompt](https://github.com/MountainHills/Daily-Writing-Prompt). I will continue my [previous project](https://github.com/MountainHills/NoFap-Journal) once my laptop is repaired.
+- 🔭 I’m currently working on [Daily-Writing-Prompt](https://github.com/MountainHills/Daily-Writing-Prompt).
+- 👯 I'm currently polishing the [Addiction-Journal-Project](https://github.com/MountainHills/NoFap-Journal).
 - 🌱 I’m currently learning Javascript at [FreeCodeCamp.org](https://www.freecodecamp.org/fcc884befff-2365-4526-b9b5-0e238eba9e57).
 - 👯 I’m looking forward to work and learn with other developers.
 - 🥅 2021 Goals: Put up atleast one contribution every day.

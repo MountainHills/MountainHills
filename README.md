@@ -2,8 +2,8 @@
 
 ## I'm a Computer Science Student, Software Developer, and Web Developer
 
-- 🔭 I’m currently working on Dream Reader (Private Project).
-- 👯 I'm currently polishing [Addiction-Journal-Project](https://github.com/MountainHills/NoFap-Journal) and [Daily-Writing-Prompt](https://github.com/MountainHills/Daily-Writing-Prompt).
+- 🔭 I’m currently brainstorming ideas for a new practical Java project.
+- 👯 I'm currently polishing [Daily-Writing-Prompt](https://github.com/MountainHills/Daily-Writing-Prompt).
 - 🌱 I’m currently learning Javascript at FreeCodeCamp.org [(Profile)](https://www.freecodecamp.org/fcc884befff-2365-4526-b9b5-0e238eba9e57) and Spring Framework.
 - 👯 I’m looking forward to work and learn with other developers.
 - 🥅 2021 Goals: Put up atleast one contribution every day.

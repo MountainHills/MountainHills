@@ -3,7 +3,7 @@
 ## I'm a Computer Science Student, Software Developer, and Web Developer
 
 - 🔭 I’m currently working on nothing at the moment.
-- 👯 I'm currently cleaning and refactoring nothing..
+- 👯 I'm currently cleaning and refactoring nothing.
 - 🌱 I’m currently learning Spring Boot and ReactJS.
 - 👯 I’m looking forward to complete projects that are actually **valuable** to people.
 - 🥅 2022 Goals: Put up atleast three **quality** contribution every week.

@@ -2,11 +2,11 @@
 
 ## I'm a Computer Science Student, Software Developer, and Web Developer
 
-- 🔭 I’m currently working on [Short-Thoughts-Manager](https://github.com/MountainHills/Short-Thoughts-Manager).
-- 👯 I'm currently cleaning and refactoring [NoFap-Journal](https://github.com/MountainHills/NoFap-Journal).
-- 🌱 I’m currently learning Javascript at FreeCodeCamp.org [(Profile)](https://www.freecodecamp.org/fcc884befff-2365-4526-b9b5-0e238eba9e57) and Spring Framework.
-- 👯 I’m looking forward to work and learn with other developers.
-- 🥅 2021 Goals: Put up atleast one contribution every day.
+- 🔭 I’m currently working on nothing at the moment.
+- 👯 I'm currently cleaning and refactoring nothing..
+- 🌱 I’m currently learning Spring Boot and ReactJS.
+- 👯 I’m looking forward to complete projects that are actually **valuable** to people.
+- 🥅 2022 Goals: Put up atleast three **quality** contribution every week.
 
 ### Connect with me:
 

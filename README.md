@@ -2,11 +2,11 @@
 
 ## I'm a Computer Science Student, Software Developer, and Web Developer
 
-- 🔭 I’m currently working on BMI Calculator using Java Swing.
+- 🔭 I’m currently working on a [Spring Boot Backend Project](https://github.com/MountainHills/Scrum-Board-Back-end) for a Productivity app.
 - 👯 I'm currently cleaning and refactoring nothing.
 - 🌱 I’m currently learning Spring Boot, Spring JPA, and Angular.
 - 👯 I’m looking forward to complete projects that are actually **valuable** to people.
-- 🥅 2022 Goals: Put up atleast three **quality** contributions every week.
+- 🥅 2023 Goals: Put up atleast three **quality** contributions every week.
 
 ### Connect with me:
 

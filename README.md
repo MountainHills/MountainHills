@@ -2,10 +2,10 @@
 
 ## I'm a Computer Science Student, Software Developer, and Web Developer
 
-- 🔭 I’m currently working on a [Spring Boot Backend Project](https://github.com/MountainHills/Scrum-Board-Back-end) for a Productivity app.
+- 🔭 I’m currently working on a [Spring Boot Backend Project](https://github.com/MountainHills/Matatag-Rental-System) for a Rental Management System.
 - 👯 I'm currently cleaning and refactoring nothing.
 - 🌱 I’m currently learning Spring Boot and React.
-- 👯 I’m looking forward to experiment with [Godot](https://godotengine.org/) and [LibGDX](https://libgdx.com/).
+- 👯 I’m looking forward to experiment with [Angular](https://angular.io/) and [LibGDX](https://libgdx.com/).
 - 🥅 2023 Goals: Put up atleast three **quality** contributions every week.
 
 ### Connect with me:

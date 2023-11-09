@@ -1,11 +1,10 @@
 ### Hi there, I'm Anton - aka [MountainHills][website] 👋
 
-## I'm a Computer Science Student, Software Developer, and Web Developer
+## I'm a Software Engineer at Samsung Electronics Philippines!
 
-- 🔭 I’m currently working on a [Spring Boot Backend Project](https://github.com/MountainHills/Matatag-Rental-System) for a Rental Management System.
-- 👯 I'm currently cleaning and refactoring nothing.
-- 🌱 I’m currently learning Spring Boot and React.
-- 👯 I’m looking forward to experiment with [Angular](https://angular.io/) and [LibGDX](https://libgdx.com/).
+- 🔭 I’m currently working on a Backend Company Project at Samsung.
+- 🌱 I’m currently learning the Spring Framework.
+- 👯 I’m looking forward to learning and experimenting with GoLang and AWS.
 - 🥅 2023 Goals: Put up atleast three **quality** contributions every week.
 
 ### Connect with me:

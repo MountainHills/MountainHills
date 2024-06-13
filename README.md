@@ -2,10 +2,9 @@
 
 ## I'm a Software Engineer at Samsung Electronics Philippines!
 
-- 🔭 I’m currently working on a Backend Company Project at Samsung.
-- 🌱 I’m currently learning the Spring Framework.
-- 👯 I’m looking forward to learning and experimenting with GoLang and AWS.
-- 🥅 2023 Goals: Put up atleast three **quality** contributions every week.
+- 🔭 I’m currently working on an in-house web system at Samsung Electronics.
+- 🌱 I’m currently learning React.
+- 🥅 2024 Goals: Create my own SaaS.
 
 ### Connect with me:
 

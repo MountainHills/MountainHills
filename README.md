@@ -1,8 +1,8 @@
 ### Hi there, I'm Anton - aka [MountainHills][website] 👋
 
-## I'm a Software Engineer at Samsung Electronics Philippines!
+## I'm a Software Engineer at Maya!
 
-- 🔭 I’m currently working on an in-house web system at Samsung Electronics.
+- 🔭 I’m currently working on Know Your Customer (KYC) processes at Maya.
 - 🌱 I’m currently learning everything to get a higher pay.
 - 🥅 2025 Goals: I just want to survive...
 
